@@ -1,0 +1,14 @@
+{
+  "name": "node-i",
+  "version": "1.0.0",
+  "description": "Node to IBM i connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "rainier letidjawa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
